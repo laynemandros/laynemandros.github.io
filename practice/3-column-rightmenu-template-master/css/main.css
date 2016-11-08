@@ -22,9 +22,9 @@
   }
 
   #left {
-    width: 180px;
+    width: 0px;
     padding: 0 10px;
-    right: 240px;
+    right: 0px;
     margin-left: -100%;
   }
 
