@@ -22,10 +22,10 @@
   }
 
   #left {
-    width: 0px;
-    padding: 0px;
-    right: 0px;
-    margin-left: 0%;
+    width: 180px;
+    padding: 0 10px;
+    right: 240px;
+    margin-left: -100%;
   }
 
   #right {
